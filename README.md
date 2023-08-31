@@ -1,7 +1,7 @@
 # Income and Life Expectancy Analysis
 A UC Berkeley **ECON148: Data Science for Economists** project.
 
-### Project done by:
+### Project completed by:
 - Letta Tjakrasendjaja
 - Elijah Jacob
 - Kyaw Swar Ye Myint
